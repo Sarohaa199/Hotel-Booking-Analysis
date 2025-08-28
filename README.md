@@ -35,24 +35,31 @@ This analysis focuses on hotel booking cancellations and other factors affecting
 ## 📊 Analysis and Findings
 
 ![alt text](./Images/chart1.png)
+
 The bar graph shows the percentage of canceled versus non-canceled reservations. Approximately 37% of clients cancel their reservations, significantly impacting hotel revenue.
 
 ![alt text](./Images/chart2.png)
+
 City Hotel has more bookings than Resort Hotel, possibly due to pricing differences, as Resort Hotel may be more expensive.
 
 ![alt text](./Images/chart3.png)
+
 The line graph demonstrates that on certain days, City Hotel's ADR is lower than Resort Hotel's, while on other days it is higher. Weekends and holidays often show increased rates for Resort Hotel.
 
 ![alt text](./Images/chart4.png)
+
 The grouped bar graph identifies months with the highest and lowest reservation levels. August has the most confirmed and canceled reservations, while January sees the highest cancellation rates.
 
 ![alt text](./Images/chart5.png)
+
 Cancellations are most frequent when prices are highest and least frequent when prices are lower, indicating that higher accommodation costs strongly correlate with cancellations.
 
 ![alt text](./Images/chart6.png)
+
 Portugal has the highest number of canceled reservations.
 
 ![alt text](./Images/chart7.png)
+
 Analysis shows that reservations with higher ADR are more likely to be canceled, supporting the hypothesis that higher prices increase cancellations.
 
 ### **Suggestions**
